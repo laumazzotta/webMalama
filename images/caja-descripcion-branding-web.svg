@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2032" height="1897.217" viewBox="0 0 2032 1897.217">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        filter: url(#caja_descripcion_servicios_branding_web);
+      }
+    </style>
+    <filter id="caja_descripcion_servicios_branding_web" x="0" y="0" width="2032" height="1897.217" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-2" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <path id="caja_descripcion_servicios_branding_web-2" data-name="caja descripcion servicios branding web" class="cls-1" d="M-4845,1607a20,20,0,0,1-20-20V200.263a20,20,0,0,1,20-20h1449.816a176.092,176.092,0,0,1,8.4-26.26l55.49-137.531c5.212-12.919,16.594-12.919,21.806,0L-3251,154a215.306,215.306,0,0,1,8.979,26.26H-3150a20,20,0,0,1,20,20V1587a20,20,0,0,1-20,20Z" transform="translate(5013.5 139.72)"/>
+  </g>
+</svg>

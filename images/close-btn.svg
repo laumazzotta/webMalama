@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="75" viewBox="0 0 38 75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5224ee;
+        font-size: 55px;
+        font-family: Nunito-Black, Nunito;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <text id="X" class="cls-1" transform="translate(19 56)"><tspan x="-18.865" y="0">X</tspan></text>
+</svg>

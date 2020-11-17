@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2037" height="1897.217" viewBox="0 0 2037 1897.217">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        filter: url(#Union_1);
+      }
+    </style>
+    <filter id="Union_1" x="0" y="0" width="2037" height="1897.217" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="49.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-2" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <path id="Union_1-2" data-name="Union 1" class="cls-1" d="M20,1600.217a20,20,0,0,1-20-20V193.48a20,20,0,0,1,20-20H802.237a175.705,175.705,0,0,1,8.426-26.261l55.65-137.53c5.227-12.919,16.642-12.919,21.87,0l58.657,137.53a214.824,214.824,0,0,1,9,26.261H1720a20,20,0,0,1,20,20V1580.217a20,20,0,0,1-20,20Z" transform="translate(148.5 146.5)"/>
+  </g>
+</svg>
